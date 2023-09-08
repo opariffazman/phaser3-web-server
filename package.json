@@ -1,0 +1,30 @@
+{
+  "name": "phaser3-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opariffazman/phaser3-web-server.git"
+  },
+  "keywords": [
+    "phaser3"
+  ],
+  "author": "opariffazman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opariffazman/phaser3-web-server/issues"
+  },
+  "homepage": "https://github.com/opariffazman/phaser3-web-server#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^9.0.0",
+    "husky": "^8.0.3",
+    "prettier": "^3.0.3"
+  }
+}
